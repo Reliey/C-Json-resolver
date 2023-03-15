@@ -1,0 +1,106 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "isLogin": true,
+        "email_verified": 1,
+        "face": "https://i0.hdslb.com/bfs/face/d835803bcba803675a959b6c33789db8d8ee53ef.jpg",
+        "face_nft": 0,
+        "face_nft_type": 0,
+        "level_info": {
+            "current_level": 5,
+            "current_min": 10800,
+            "current_exp": 11945,
+            "next_exp": 28800
+        },
+        "mid": 628894422,
+        "mobile_verified": 1,
+        "money": 755,
+        "moral": 70,
+        "official": {
+            "role": 0,
+            "title": "",
+            "desc": "",
+            "type": -1
+        },
+        "officialVerify": {
+            "type": -1,
+            "desc": ""
+        },
+        "pendant": {
+            "pid": 0,
+            "name": "",
+            "image": "",
+            "expire": 0,
+            "image_enhance": "",
+            "image_enhance_frame": ""
+        },
+        "scores": 0,
+        "uname": "_Reliey",
+        "vipDueDate": 1639324800000,
+        "vipStatus": 0,
+        "vipType": 1,
+        "vip_pay_type": 0,
+        "vip_theme_type": 0,
+        "vip_label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+        },
+        "vip_avatar_subscript": 0,
+        "vip_nickname_color": "",
+        "vip": {
+            "type": 1,
+            "status": 0,
+            "due_date": 1639324800000,
+            "vip_pay_type": 0,
+            "theme_type": 0,
+            "label": {
+                "path": "",
+                "text": "",
+                "label_theme": "",
+                "text_color": "",
+                "bg_style": 0,
+                "bg_color": "",
+                "border_color": "",
+                "use_img_label": true,
+                "img_label_uri_hans": "",
+                "img_label_uri_hant": "",
+                "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+            },
+            "avatar_subscript": 0,
+            "nickname_color": "",
+            "role": 0,
+            "avatar_subscript_url": "",
+            "tv_vip_status": 0,
+            "tv_vip_pay_type": 0
+        },
+        "wallet": {
+            "mid": 628894422,
+            "bcoin_balance": 0,
+            "coupon_balance": 0,
+            "coupon_due_time": 0
+        },
+        "has_shop": false,
+        "shop_url": "",
+        "allowance_count": 0,
+        "answer_status": 0,
+        "is_senior_member": 0,
+        "wbi_img": {
+            "img_url": "https://i0.hdslb.com/bfs/wbi/8b38e49520184ff3a16d952dad0a2612.png",
+            "sub_url": "https://i0.hdslb.com/bfs/wbi/5466025fc80049919e2cadd8c7a5579b.png"
+        },
+        "is_jury": false
+    }
+}
